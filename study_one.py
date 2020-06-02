@@ -1,0 +1,1 @@
+print(" i will studying and doing my thesis tomorrow")
